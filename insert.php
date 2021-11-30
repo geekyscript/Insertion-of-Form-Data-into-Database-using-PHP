@@ -1,5 +1,5 @@
 <?php
-		$conn = mysqli_connect("64.227.180.62", "root", "uejdfaypkc", "uejdfaypkc");
+		$conn = mysqli_connect("uejdfaypkc@localhost", "root", "uejdfaypkc", "uejdfaypkc");
 		
 		// Checking the connection
 		if($conn === false){
