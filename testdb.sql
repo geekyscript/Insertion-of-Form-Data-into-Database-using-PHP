@@ -40,11 +40,7 @@ CREATE TABLE `college` (
 --
 
 INSERT INTO `college` (`first_name`, `last_name`, `gender`, `address`, `email`) VALUES
-('swa', 'de', 'male', 'tft', 'yyd@yy.htm'),
-('swa', 'de', 'male', 'tft', 'yyd@yy.htm'),
-('swa', 'de', 'male', 'tft', 'yyd@yy.htm'),
-('swa', 'de', 'male', 'tft', 'yyd@yy.htm'),
-('swa', 'de', 'male', 'tft', 'yyd@yy.htm');
+('gs', 'youtube', 'male', 'India', 'gs@outlook.com');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
